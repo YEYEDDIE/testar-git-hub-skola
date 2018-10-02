@@ -7,5 +7,9 @@ function lottoRad() {
 	 	document.getElementById ("lotto_" + i).innerHTML = lottery;
 		
 	}
-	//alert 'lottoraden klar!';
+
+
+
+
+	alert("lottoraden klar!!");
 }
